@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "rave_id": 1,
+    "title": "RAVE URL Test 1",
+    "headline": "RAVE URL Test 1",
+    "description": "This is a test to see if we can generate URLs via JSON file within Git.  If we can, then we should be able to successfully test the new Rave service.",
+    "instruction": null,
+    "sent": "",
+    "effective": "",
+    "onset": "",
+    "expiration": "",
+    "show_homepage_banner": 1,
+    "channel": 3,
+    "deleted": 0
+  }
+]
